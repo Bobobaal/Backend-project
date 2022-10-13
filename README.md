@@ -31,3 +31,6 @@ Run the tests with `yarn test` if you want to compile a coverage file use `yarn 
 ## Known problems
 
 * Unit test movies don't work unless the debugLog in the methods are commented if they aren't it will complain about the logger not existing.
+
+## Screenshot Swagger, werkt met authorisatie
+![image](https://user-images.githubusercontent.com/15947020/195469304-3da97f6a-309a-466d-8b21-65d1f0252035.png)
